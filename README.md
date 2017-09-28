@@ -1,2 +1,2 @@
 # Calculator-py-
-Written in pyton with simple coding
+Written in pyton with basic coding
